@@ -1,5 +1,5 @@
 html{
-    background-color: #0a192f;
+    background-color: #0000FF;
     display: flex;
     position: relative;
     font-size: 12px;
@@ -9,8 +9,5 @@ html{
     line-height: 1.3;
     padding: 0px 500px;
     margin: 10px;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
     align-items: flex-start;
 }
